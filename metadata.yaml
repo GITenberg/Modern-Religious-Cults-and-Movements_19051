@@ -1,0 +1,36 @@
+_repo: Modern-Religious-Cults-and-Movements_19051
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Atkins, Gaius Glenn
+    birthdate: 1868
+    deathdate: 1956
+    gutenberg_agent_id: '8433'
+    url: http://www.gutenberg.org/2009/agents/8433
+description: 'First published in 1924, this title explores the schools of religious
+  thought and practice that sprung up towards the end of the nineteenth century and
+  at the start of the twentieth: sects, mystics and spiritualists, theological sciences
+  and scientific theologies, personal philosophies, and a huge range of new trajectories
+  of thought within the established forms of Western European Christianity. In particular,
+  the author explores the numerous ways in which ''Eastern'' religious traditions,
+  or at least spiritual patterns deriving inspiration from the Orient, gained a foothold
+  among seek.'
+gutenberg_issued: '2006-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritual healing'
+- !lcsh 'Christian Science'
+- !lcsh 'New Thought'
+- !lcsh 'Religion'
+- !lcc 'BL'
+title: Modern Religious Cults and Movements
+url: http://www.gutenberg.org/ebooks/19051
